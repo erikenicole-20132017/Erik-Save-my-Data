@@ -6,3 +6,5 @@ Since I am only a child, my parents do not allow me to subscribe, even for a who
 Because data can be formatted automatically on USB sticks. Never put data on a stick, especially if important, like my stick.
 
 If you notice any translation errors, please contact me on erikngresi1@outlook.it ngresierik@gmail.com erikngresi@ic-predazzotesero.it
+
+![erik-images-erik-save-data-contributors](https://user-images.githubusercontent.com/108028311/202915330-3796873d-f6eb-4aeb-b424-38f05d9cb2e9.jpg)
