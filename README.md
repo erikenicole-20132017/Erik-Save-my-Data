@@ -15,4 +15,4 @@ If you notice any translation errors, please contact me on erikngresi1@outlook.i
 
 Other Languages: 
 
-[English](https://github.com/erikenicole-20132017/Erik-Save-my-Data) [Italiano]
+[English](https://github.com/erikenicole-20132017/Erik-Save-my-Data) [Italiano](https://github.com/erikenicole-20132017/Erik-Save-my-Data/blob/main/italian.md)
