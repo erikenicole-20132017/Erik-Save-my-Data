@@ -7,12 +7,13 @@ Because data can be formatted automatically on USB sticks. Never put data on a s
 
 I've been trying to retrieve my content for months, so I need help. I am looking for some programs that do not require money. One thing I found is [Recuva](https://www.ccleaner.com/recuva), a program that can recover files but on my flash drive is unreliable. In fact my USB stick disconnects automatically so I don't have a full recovery. Sometimes files also appear that I didn't create, but maybe saved locally before purchase, or maybe they're storage usage logs.
 
+Maybe when I'm older I'll be able to subscribe to a program, and unsubscribe soon after. I will have learned the lesson: never upload files to easily formatted or defective flash drives, but to the hard disk i.e. the computer's memory. Sounds like a really good idea to me, don't you think?
+
+This is very important, PLEASE HELP ME!!!
+
 If you have any ideas about free recovery programs, contact me (see email at the bottom of the page)
 
 If you notice any translation errors, please contact me on erikngresi1@outlook.it ngresierik@gmail.com erikngresi@ic-predazzotesero.it
 
 ![erik-images-erik-save-data-contributors](https://user-images.githubusercontent.com/108028311/202915330-3796873d-f6eb-4aeb-b424-38f05d9cb2e9.jpg)
 
-Other Languages: 
-
-[English](https://github.com/erikenicole-20132017/Erik-Save-my-Data) [Italiano](https://github.com/erikenicole-20132017/Erik-Save-my-Data/blob/main/italian.md)
