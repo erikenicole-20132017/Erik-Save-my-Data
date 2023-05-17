@@ -1,4 +1,5 @@
 # Erik-Save-my-Data
+
 Erik: Save my Data is a project to help recover data due to an accident.
 
 How come? I created videos and edited them very well and made movies as well. Probably, I installed a program on the computer to install data on flash drives. The installation window warned that the chosen stick is permanently formatted. And you know what happened? I unintentionally clicked Continue and... boom! Data deleted. I tried downloading dozens of programs to the computer to recover data, but you need the subscription.
@@ -9,7 +10,7 @@ I've been trying to retrieve my content for months, so I need help. I am looking
 
 Maybe when I'm older I'll be able to subscribe to a program, and unsubscribe soon after. I will have learned the lesson: never upload files to easily formatted or defective flash drives, but to the hard disk i.e. the computer's memory. Sounds like a really good idea to me, don't you think?
 
-But I don't want to wait! I want to do it NOW, got it?!? 
+But I don't want to wait! I want to do it NOW, got it?!? I really need the lost files! Recuva is not very reliable because some files are unrecoverable, the ones that are REALLY important! But I believe that one day I will succeed!
 
 This is very important, PLEASE HELP ME!!!
 
