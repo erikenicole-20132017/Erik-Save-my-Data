@@ -9,6 +9,8 @@ I've been trying to retrieve my content for months, so I need help. I am looking
 
 Maybe when I'm older I'll be able to subscribe to a program, and unsubscribe soon after. I will have learned the lesson: never upload files to easily formatted or defective flash drives, but to the hard disk i.e. the computer's memory. Sounds like a really good idea to me, don't you think?
 
+But I don't want to wait! I want to do it NOW, got it?!? 
+
 This is very important, PLEASE HELP ME!!!
 
 If you have any ideas about free recovery programs, contact me (see email at the bottom of the page)
