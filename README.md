@@ -16,7 +16,7 @@ This is very important, PLEASE HELP ME!!!
 
 If you have any ideas about free recovery programs, contact me (see email at the bottom of the page)
 
-If you notice any translation errors, please contact me on erikngresi1@outlook.it ngresierik@gmail.com erikngresi@ic-predazzotesero.it
+mabye there translation error.
 
 ![erik-images-erik-save-data-contributors](https://user-images.githubusercontent.com/108028311/202915330-3796873d-f6eb-4aeb-b424-38f05d9cb2e9.jpg)
 
