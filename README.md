@@ -1,5 +1,6 @@
 # Erik-Save-my-Data
 
+## ENG
 Erik: Save my Data is a project to help recover data due to an accident.
 
 How come? I created videos and edited them very well and made movies as well. Probably, I installed a program on the computer to install data on flash drives. The installation window warned that the chosen stick is permanently formatted. And you know what happened? I unintentionally clicked Continue and... boom! Data deleted. I tried downloading dozens of programs to the computer to recover data, but you need the subscription.
@@ -16,7 +17,8 @@ This is very important, PLEASE HELP ME!!!
 
 If you have any ideas about free recovery programs, contact me (see email at the bottom of the page)
 
-mabye there translation error.
-
 ![erik-images-erik-save-data-contributors](https://user-images.githubusercontent.com/108028311/202915330-3796873d-f6eb-4aeb-b424-38f05d9cb2e9.jpg)
 
+## ITA
+
+Durante un'operazione di inserimento di un sistema operativo in una delle mie USB-stick, mi si è accidentalmente formattato perché ho cliccato su 'Annulla' a metà strada. Purtroppo, non ho avuto modo di recuperare tutti i dati, ma grazie a un piccolo programmino, chiamato Recuva (potete trovarlo gratuitamente sul web) che uso ancora oggi: questo disastro mi è accaduto anni fa, puoi recuperare parte dei tuoi file. Lo sto usando ancora per recuperare vecchi file eliminati da dei miei dischi rigidi. Ve lo consiglio: è gratuito per recuperare file!
